@@ -6,7 +6,7 @@ Built in the Neuro-symbolic Intelligent Cyber-physical Systems (NICE) Lab, Arizo
 
 | Detection: contour, bounding box and grasp point | Result: hanger placed on the rack |
 |---|---|
-| ![Wrist camera view with the hanger contour, bounding box and grasp target drawn](docs/hanger_detection.png) | ![Wrist camera view of the hanger hooked on the rack bar](docs/hanger_on_rack.png) |
+| ![Wrist camera view with the hanger contour, bounding box and grasp target drawn](adm_place5_final_frame.png) | ![Wrist camera view of the hanger hooked on the rack bar](adm_place5_final_frame.png) |
 
 ---
 
